@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:22d3a5&height=200&section=header&text=Tam%20Pham&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=SRE%20%26%20System%20Security%20Engineer&descAlignY=55&descSize=20&animation=fadeIn&v=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:22d3a5&height=200&section=header&text=Tam%20Pham&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=SRE%20%26amp%3B%20System%20Security%20Engineer&descAlignY=55&descSize=20&animation=fadeIn&v=3" width="100%"/>
 
 <a href="https://tam.pm" target="_blank">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=22D3A5&center=true&vCenter=true&width=650&lines=System+Security+Engineer;Site+Reliability+Engineering;Defense-in-Depth+Architecture;Building+Auto-Healing+Systems;Zero-Trust+Network+Deployment" alt="Typing SVG" />
@@ -91,8 +91,8 @@ Tôi là một kỹ sư hệ thống theo đuổi triết lý **"thực chứng 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=tdev8x&show_icons=true&theme=radical&hide_border=true&bg_color=0e1420&title_color=22d3a5&text_color=8b98ab&icon_color=38bdf8&ring_color=059669&locale=en&v=2"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdev8x&layout=compact&theme=radical&hide_border=true&bg_color=0e1420&title_color=22d3a5&text_color=8b98ab&v=2"/>
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tdev8x&theme=radical" alt="GitHub Stats" />
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tdev8x&theme=radical" alt="Top Langs" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tdev8x&theme=radical&hide_border=true&background=0e1420&ring=059669&fire=22d3a5&currStreakLabel=22d3a5&locale=en" alt="GitHub Streak"/>
 
