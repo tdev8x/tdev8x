@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:22d3a5&height=200&section=header&text=Tam%20Pham&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=SRE%20%26%20System%20Security%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:22d3a5&height=200&section=header&text=Tam%20Pham&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=SRE%20%26%20System%20Security%20Engineer&descAlignY=55&descSize=20&animation=fadeIn&v=2" width="100%"/>
 
 <a href="https://tam.pm" target="_blank">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=22D3A5&center=true&vCenter=true&width=650&lines=System+Security+Engineer;Site+Reliability+Engineering;Defense-in-Depth+Architecture;Building+Auto-Healing+Systems;Zero-Trust+Network+Deployment" alt="Typing SVG" />
@@ -8,13 +8,13 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/📍 _Gia_Lai (Binh_Dinh),_VN-070b12?style=for-the-badge&labelColor=059669&color=0e1420" alt="Location"/>
+<img src="https://img.shields.io/badge/📍_Gia_Lai_(Binh_Dinh),_VN-070b12?style=for-the-badge&labelColor=059669&color=0e1420" alt="Location"/>
 <img src="https://komarev.com/ghpvc/?username=tdev8x&color=059669&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br><br>
 
-<a href="#-about-me--về-tôi"><img src="https://img.shields.io/badge/🇬🇧_English-070b12?style=flat-square&labelColor=0e1420&color=22d3a5" alt="English"/></a>
-<a href="#-about-me--về-tôi"><img src="https://img.shields.io/badge/🇻🇳_Tiếng_Việt-070b12?style=flat-square&labelColor=0e1420&color=22d3a5" alt="Tiếng Việt"/></a>
+<a href="#-english"><img src="https://img.shields.io/badge/🇬🇧_English-070b12?style=flat-square&labelColor=0e1420&color=22d3a5" alt="English"/></a>
+<a href="#-tiếng-việt"><img src="https://img.shields.io/badge/🇻🇳_Tiếng_Việt-070b12?style=flat-square&labelColor=0e1420&color=22d3a5" alt="Tiếng Việt"/></a>
 
 </div>
 
@@ -25,11 +25,7 @@
 > *"Technological empiricism — verify every solution in a real Homelab before deploying to enterprise environments."*
 > *"Thực chứng công nghệ — kiểm chứng mọi giải pháp trong môi trường Homelab thực tế trước khi áp dụng vào doanh nghiệp."*
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🇬🇧 English
+<h3 id="-english">🇬🇧 English</h3>
 
 I am a systems engineer pursuing the philosophy of **"technological empiricism"**, specializing heavily in **Information Security** and operations automation.
 
@@ -40,10 +36,7 @@ I am a systems engineer pursuing the philosophy of **"technological empiricism"*
 - 🌐 Discover more about my professional profile at [tam.pm](https://tam.pm).
 - 📫 Reach me via Email: **info@tam.pm**
 
-</td>
-<td width="50%" valign="top">
-
-### 🇻🇳 Tiếng Việt
+<h3 id="-tiếng-việt">🇻🇳 Tiếng Việt</h3>
 
 Tôi là một kỹ sư hệ thống theo đuổi triết lý **"thực chứng công nghệ"**, chuyên sâu vào **An toàn Thông tin (Information Security)** và tự động hóa vận hành.
 
@@ -54,48 +47,21 @@ Tôi là một kỹ sư hệ thống theo đuổi triết lý **"thực chứng 
 - 🌐 Khám phá chi tiết hồ sơ chuyên môn của tôi tại [tam.pm](https://tam.pm).
 - 📫 Liên hệ qua Email: **info@tam.pm**
 
-</td>
-</tr>
-</table>
+<br>
 
+## 📝 Latest Tech Notes / Bài viết mới nhất (Auto-Sync)
+
+<!-- BLOG-POST-LIST:START -->
+* ⏳ *Đang chờ hệ thống đồng bộ bài viết mới nhất từ [Tam Blog](https://blog.tam.pm)...*
+<!-- BLOG-POST-LIST:END -->
 <br>
 
 ## 🧩 Core Competencies / Năng lực cốt lõi
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🤖 SRE & Agentic AI Automation**
-Applying AI/LLMs to SRE processes, automating diagnosis and infrastructure self-healing.
-*Ứng dụng AI/LLMs vào SRE, tự động hóa chẩn đoán và tự phục hồi hạ tầng.*
-
-</td>
-<td width="50%" valign="top">
-
-**🛡️ Security & Network Defense**
-Defense-in-Depth models to protect data integrity and mitigate risks.
-*Mô hình bảo mật nhiều lớp (Defense-in-Depth) bảo vệ toàn vẹn dữ liệu.*
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🖥️ Virtualization & Infrastructure**
-Managing hardware resources, deploying flexible server infrastructures.
-*Quản lý tài nguyên phần cứng, triển khai hạ tầng máy chủ linh hoạt.*
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 Networking & Data Management**
-Managing data flows, DNS resolution, and ensuring system resilience.
-*Quản trị luồng dữ liệu, phân giải tên miền, đảm bảo khả năng phục hồi.*
-
-</td>
-</tr>
-</table>
+*   **🤖 SRE & Agentic AI Automation:** Applying AI/LLMs to SRE processes, automating diagnosis and infrastructure self-healing. / *Ứng dụng AI/LLMs vào SRE, tự động hóa chẩn đoán và tự phục hồi hạ tầng.*
+*   **🛡️ Security & Network Defense:** Defense-in-Depth models to protect data integrity and mitigate risks. / *Mô hình bảo mật nhiều lớp (Defense-in-Depth) bảo vệ toàn vẹn dữ liệu.*
+*   **🖥️ Virtualization & Infrastructure:** Managing hardware resources, deploying flexible server infrastructures. / *Quản lý tài nguyên phần cứng, triển khai hạ tầng máy chủ linh hoạt.*
+*   **🌐 Networking & Data Management:** Managing data flows, DNS resolution, and ensuring system resilience. / *Quản trị luồng dữ liệu, phân giải tên miền, đảm bảo khả năng phục hồi.*
 
 <br>
 
@@ -125,8 +91,8 @@ Managing data flows, DNS resolution, and ensuring system resilience.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=tdev8x&show_icons=true&theme=radical&hide_border=true&bg_color=0e1420&title_color=22d3a5&text_color=8b98ab&icon_color=38bdf8&ring_color=059669&locale=en"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdev8x&layout=compact&theme=radical&hide_border=true&bg_color=0e1420&title_color=22d3a5&text_color=8b98ab"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=tdev8x&show_icons=true&theme=radical&hide_border=true&bg_color=0e1420&title_color=22d3a5&text_color=8b98ab&icon_color=38bdf8&ring_color=059669&locale=en&v=2"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdev8x&layout=compact&theme=radical&hide_border=true&bg_color=0e1420&title_color=22d3a5&text_color=8b98ab&v=2"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tdev8x&theme=radical&hide_border=true&background=0e1420&ring=059669&fire=22d3a5&currStreakLabel=22d3a5&locale=en" alt="GitHub Streak"/>
 
