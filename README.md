@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:22d3a5&height=200&section=header&text=Tam%20Pham&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=SRE%20%26amp%3B%20System%20Security%20Engineer&descAlignY=55&descSize=20&animation=fadeIn&v=3" width="100%"/>
-
+<!-- SRE TERMINAL BANNER (Đã thụt lề các dòng lệnh) -->
 <a href="https://tam.pm" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=22D3A5&center=true&vCenter=true&width=650&lines=System+Security+Engineer;Site+Reliability+Engineering;Defense-in-Depth+Architecture;Building+Auto-Healing+Systems;Zero-Trust+Network+Deployment" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1000&color=0f172a&background=f6f8fb&vCenter=true&width=800&height=180&lines=%20%20%20%20root@homelab:~%24+whoami;%20%20%20%20%20%20Tam+Pham;%20%20%20%20root@homelab:~%24+cat+%2Fetc%2Frole;%20%20%20%20%20%20SRE+%26+System+Security+Engineer;%20%20%20%20root@homelab:~%24+systemctl+status+defense-in-depth;%20%20%20%20%20%20%E2%97%8F+Active+(running)+since+2014;%20%20%20%20root@homelab:~%24+.%2Fdeploy_auto_healing.sh;%20%20%20%20%20%20Initializing+Agentic+AI+Workflows...+Done!&border=true&radius=12">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1000&color=22D3A5&background=0e1420&vCenter=true&width=800&height=180&lines=%20%20%20%20root@homelab:~%24+whoami;%20%20%20%20%20%20Tam+Pham;%20%20%20%20root@homelab:~%24+cat+%2Fetc%2Frole;%20%20%20%20%20%20SRE+%26+System+Security+Engineer;%20%20%20%20root@homelab:~%24+systemctl+status+defense-in-depth;%20%20%20%20%20%20%E2%97%8F+Active+(running)+since+2014;%20%20%20%20root@homelab:~%24+.%2Fdeploy_auto_healing.sh;%20%20%20%20%20%20Initializing+Agentic+AI+Workflows...+Done!&border=true&radius=12">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1000&color=22D3A5&background=0e1420&vCenter=true&width=800&height=180&lines=%20%20%20%20root@homelab:~%24+whoami;%20%20%20%20%20%20Tam+Pham;%20%20%20%20root@homelab:~%24+cat+%2Fetc%2Frole;%20%20%20%20%20%20SRE+%26+System+Security+Engineer;%20%20%20%20root@homelab:~%24+systemctl+status+defense-in-depth;%20%20%20%20%20%20%E2%97%8F+Active+(running)+since+2014;%20%20%20%20root@homelab:~%24+.%2Fdeploy_auto_healing.sh;%20%20%20%20%20%20Initializing+Agentic+AI+Workflows...+Done!&border=true&radius=12" alt="SRE Terminal" />
+</picture>
 </a>
 
 <br>
@@ -13,8 +16,9 @@
 
 <br><br>
 
-<a href="#-english"><img src="https://img.shields.io/badge/🇬🇧_English-070b12?style=flat-square&labelColor=0e1420&color=22d3a5" alt="English"/></a>
-<a href="#-tiếng-việt"><img src="https://img.shields.io/badge/🇻🇳_Tiếng_Việt-070b12?style=flat-square&labelColor=0e1420&color=22d3a5" alt="Tiếng Việt"/></a>
+<a href="#-english" style="text-decoration:none;">🇬🇧 <img src="https://img.shields.io/badge/English-070b12?style=flat-square&labelColor=0e1420&color=22d3a5" alt="English" align="center"/></a>
+&nbsp;&nbsp;
+<a href="#-tiếng-việt" style="text-decoration:none;">🇻🇳 <img src="https://img.shields.io/badge/Tiếng_Việt-070b12?style=flat-square&labelColor=0e1420&color=22d3a5" alt="Tiếng Việt" align="center"/></a>
 
 </div>
 
