@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/📍_An_Nhon,_Gia_Lai,_VN-070b12?style=for-the-badge&labelColor=059669&color=0e1420" alt="Location"/>
+<img src="https://img.shields.io/badge/📍 _Gia_Lai (Binh_Dinh),_VN-070b12?style=for-the-badge&labelColor=059669&color=0e1420" alt="Location"/>
 <img src="https://komarev.com/ghpvc/?username=tdev8x&color=059669&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br><br>
